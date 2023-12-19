@@ -1,2 +1,3 @@
-# dancing-links-game
-A game to play with dancing links
+# dancing-links- game
+
+The user can play with the nodes, put them outside and inside the structure of the dancing links.
